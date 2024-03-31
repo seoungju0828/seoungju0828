@@ -3,10 +3,10 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00008B&height=100&section=header&text=개발자노승주입니다&fontSize=20&fontColor=ffff" />
 <p>안녕하세요 개발자 노승주입니다.</p>
 
-<a href="https://githun.com/seoungju0828">
+<a href="https://github.com/seoungju0828/">
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>
 </a>
-<a href="www.instagram.com/seoxxjoo/">
+<a href="https://www.instagram.com/seoxxjoo/">
     <img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
 </a>
 <a href="mailto:ministar2006@gmail.com">
