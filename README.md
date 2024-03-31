@@ -16,8 +16,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 </p>
 
-<br>
-
 ### Tool
 <p>
   <img src="https://img.shields.io/badge/intelliJ IDEA-000000?style=flat&logo=intelliJ IDEA&logoColor=white" />
