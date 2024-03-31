@@ -9,7 +9,6 @@
 <a href="www.instagram.com/seoxxjoo/">
     <img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
 </a>
-k
 <a href="mailto:ministar2006@gmail.com">
   <img src="https://img.shields.io/badge/Mail-D14836?style=flat&logo=gmail&logoColor=white"/>
 </a>
