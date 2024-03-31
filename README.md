@@ -4,11 +4,12 @@
 <p>안녕하세요 개발자 노승주입니다.</p>
 
 <a href="https://githun.com/seoungju0828">
-  <img src="https://img.shields.io/badge/github181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>
 </a>
 <a href="www.instagram.com/seoxxjoo/">
     <img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
 </a>
+k
 <a href="mailto:ministar2006@gmail.com">
   <img src="https://img.shields.io/badge/Mail-D14836?style=flat&logo=gmail&logoColor=white"/>
 </a>
