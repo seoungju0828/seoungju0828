@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00008B&height=100&section=header&text=개발자노승주입니다&fontSize=20&fontColor=ffff" />
 <p>안녕하세요 개발자 노승주입니다.</p>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/seoungju0828/)
+[![GitHub](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/seoxxjoo/) 
 
 ### 언어
 <p>
