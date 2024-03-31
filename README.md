@@ -3,18 +3,6 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00008B&height=100&section=header&text=개발자&nbsp;노승주입니다&fontSize=20&fontColor=ffff" />
 <p>
   안녕하세요 노승주입니다.
-  <br>
-  <br>
-  <p style="font-size=20">멋쟁이토마토</p>라는 노래에는 이런 가사가 있습니다.
-  <br>
-  <br>
-  "나는야 주스 될꺼야 (꿀꺽!)"
-  <br>
-  "나는야 케챱 될꺼야 (찍!)"
-  <br>
-  "나는야 춤을 출꺼야 (댄스!)"
-  <br>
-  멋쟁이 토마토처럼 하고싶은것도 많고, 될 수 있는 것도 많은 개발자 노승주입니다.  
 </p>
 
 <a href="https://github.com/seoungju0828/">
