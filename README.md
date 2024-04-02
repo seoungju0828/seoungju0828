@@ -41,8 +41,8 @@
 ### Office
 <P>
   <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Word-2B579A?style=flat&logo=word&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Word-2B579A?style=flat&logo=microsoftword&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
 </P>
