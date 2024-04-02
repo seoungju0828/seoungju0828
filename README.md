@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Mail-D14836?style=flat&logo=gmail&logoColor=white"/>
 </a>
 
-### 언어
+### Language
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white" />
   <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat&logo=MYSQL&logoColor=white" />
