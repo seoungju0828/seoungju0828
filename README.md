@@ -20,12 +20,14 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white" />
   <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat&logo=MYSQL&logoColor=white" />
   <img src="https://img.shields.io/badge/OracleDB-F80000?style=flat&logo=oracle&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" /><br>
   <img src="https://img.shields.io/badge/nodeJS-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+  <img src="https://img.shields.io/badge/BootStrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
 </p>
 
 ### Tool
@@ -35,4 +37,13 @@
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white" />
 </p>
+
+### Office
+<P>
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=powerpoint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Word-2B579A?style=flat&logo=word&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
+</P>
 
