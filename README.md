@@ -1,4 +1,4 @@
-### Dear, Seoxxjoo🪼🫀🍥
+### Dear, SeungJoo🪼🫀🍥
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00008B&height=100&section=header&text=개발자&nbsp;노승주입니다&fontSize=20&fontColor=ffff" />
 <p>
@@ -36,6 +36,7 @@
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" /> <br>
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dev C++-DF0101?style=flat&logo=cplusplus&logoColor=white" />
 </p>
 
 ### Office
