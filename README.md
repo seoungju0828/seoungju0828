@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Mail-D14836?style=flat&logo=gmail&logoColor=white"/>
 </a>
 
-### Language
+### Learn Language
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white" />
   <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat&logo=MYSQL&logoColor=white" />
@@ -35,8 +35,9 @@
   <img src="https://img.shields.io/badge/intelliJ IDEA-000000?style=flat&logo=intelliJ IDEA&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" /> <br>
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=whc="https://imgite" />
   <img src="https://img.shields.io/badge/Dev C++-DF0101?style=flat&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/EditPlus-ff5e3c?style=flat&logo=stackedit&logoColor=white"/>
 </p>
 
 ### Office
