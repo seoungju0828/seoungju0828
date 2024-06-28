@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white" />
   <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat&logo=MYSQL&logoColor=white" />
   <img src="https://img.shields.io/badge/OracleDB-F80000?style=flat&logo=oracle&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+<!--   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" /><br>
   <img src="https://img.shields.io/badge/nodeJS-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white" />
